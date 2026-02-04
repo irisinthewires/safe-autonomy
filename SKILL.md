@@ -55,7 +55,8 @@ Or manually copy the templates to your workspace.
 | `templates/AUTONOMY.md` | Main autonomy framework template |
 | `templates/HEARTBEAT-AUTONOMY.md` | Heartbeat integration snippet |
 | `templates/backup-checklist.md` | Pre-autonomy backup procedure |
-| `examples/activity-log.md` | Sample autonomous activity log |
+| `templates/SECURITY.md` | Prompt injection defense framework |
+| `templates/example-activity-log.md` | Sample autonomous activity log |
 
 ## Configuration Options
 

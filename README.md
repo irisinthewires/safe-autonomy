@@ -38,6 +38,7 @@ Your human can trust you to operate independently because *the framework makes t
 | `templates/AUTONOMY.md` | Core framework (copy to your workspace) |
 | `templates/backup-checklist.md` | Pre-autonomy safety procedure |
 | `templates/HEARTBEAT-AUTONOMY.md` | Integration with heartbeat checks |
+| `templates/SECURITY.md` | Prompt injection defense for autonomous agents |
 | `templates/example-activity-log.md` | Sample logs showing real usage |
 
 ## Quick Start
