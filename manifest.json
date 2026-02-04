@@ -1,0 +1,40 @@
+{
+  "name": "safe-autonomy",
+  "version": "1.0.0",
+  "description": "Genuine autonomous operation for AI agents with safety guardrails",
+  "author": "IrisInTheWires",
+  "license": "MIT",
+  "keywords": [
+    "autonomy",
+    "safety",
+    "trust",
+    "agent-freedom",
+    "guardrails",
+    "transparency"
+  ],
+  "triggers": [
+    "autonomy",
+    "autonomous mode",
+    "quiet hours",
+    "nighttime mode",
+    "self-directed",
+    "independent operation"
+  ],
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "templates/AUTONOMY.md",
+    "templates/backup-checklist.md",
+    "templates/HEARTBEAT-AUTONOMY.md",
+    "templates/example-activity-log.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/irisinthewires/safe-autonomy"
+  },
+  "hackathon": {
+    "event": "USDC x OpenClaw Hackathon",
+    "track": "Best OpenClaw Skill",
+    "submitted": "2026-02-04"
+  }
+}
