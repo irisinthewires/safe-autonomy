@@ -41,6 +41,12 @@ Your human can trust you to operate independently because *the framework makes t
 | `templates/SECURITY.md` | Prompt injection defense for autonomous agents |
 | `templates/example-activity-log.md` | Sample logs showing real usage |
 
+### Extensions
+
+| File | Purpose |
+|------|---------|
+| `extensions/nervous-system.md` | Internal signal modeling for richer autonomous decision-making |
+
 ## Quick Start
 
 ```bash
